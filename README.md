@@ -27,13 +27,43 @@
 
 ---
 
-## My Projects
+## 🏆 GitHub Trophies
 
-| Project | Description |
-|---------|-------------|
-| [dns-probe](https://github.com/vito-L/dns-probe) | DNS probe tool with DoH/DoT support |
-| [awesome-bilibili](https://github.com/vito-L/awesome-bilibili) | Bilibili tools and resources |
-| [github-contributor](https://github.com/vito-L/github-contributor) | GitHub contribution automation |
+[![trophy](https://github-profile-trophy.vercel.app/?username=vito-L&theme=algolia&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vito-L&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vito-L&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vito-L&theme=github-dark&hide_border=true)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/vito-L/vito/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 📌 Pinned Repos
+
+<a href="https://github.com/vito-L/dns-probe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-L&repo=dns-probe&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/vito-L/awesome-bilibili">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-L&repo=awesome-bilibili&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/vito-L/github-contributor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-L&repo=github-contributor&theme=github_dark&hide_border=true" />
+</a>
 
 ---
 
