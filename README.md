@@ -29,18 +29,7 @@
 
 ## 🏆 GitHub Trophies
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=vito-L&theme=algolia&no-frame=true&no-bg=true&row=1&column=4" width="180" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=vito-L&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" width="180" />
-    </td>
-  </tr>
-</table>
+[![trophy](https://github-profile-trophy.vercel.app/?username=vito-L&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
