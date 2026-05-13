@@ -27,20 +27,19 @@
 
 </div>
 
-## GitHub Stats
+## My Projects
 
-<div align="center">
+| Project | Description |
+|---------|-------------|
+| [dns-probe](https://github.com/vito-L/dns-probe) | DNS probe tool with DoH/DoT support |
+| [awesome-bilibili](https://github.com/vito-L/awesome-bilibili) | Bilibili tools and resources |
+| [github-contributor](https://github.com/vito-L/github-contributor) | GitHub contribution automation |
 
-<img src="https://github-readme-stats.vercel.app/api?username=vito-L&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vito-L&layout=compact&theme=default&hide_border=true" width="40%">
+## Stats
 
-</div>
+<div>
 
-## Recent Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vito-L&theme=default&hide_border=true)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=vito-L&color=blue&style=flat)
 
 </div>
 
@@ -48,6 +47,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vito-L&color=blue&style=flat)
+**Thanks for visiting!**
 
 </div>
