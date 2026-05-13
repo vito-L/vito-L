@@ -29,19 +29,41 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vito-L&theme=algolia&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vito-L">
+        <img src="https://github-profile-trophy.vercel.app/?username=vito-L&theme=algolia&no-frame=true&no-bg=true&row=1&column=4" width="200" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vito-L">
+        <img src="https://github-profile-trophy.vercel.app/?username=vito-L&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" width="200" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vito-L&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vito-L&layout=compact&theme=github_dark&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vito-L&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vito-L&layout=compact&theme=github_dark&hide_border=true" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vito-L&theme=github-dark&hide_border=true)
 
@@ -55,15 +77,25 @@
 
 ## 📌 Pinned Repos
 
-<a href="https://github.com/vito-L/dns-probe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-L&repo=dns-probe&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/vito-L/awesome-bilibili">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-L&repo=awesome-bilibili&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/vito-L/github-contributor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-L&repo=github-contributor&theme=github_dark&hide_border=true" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/vito-L/dns-probe">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-L&repo=dns-probe&theme=github_dark&hide_border=true" width="250" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vito-L/awesome-bilibili">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-L&repo=awesome-bilibili&theme=github_dark&hide_border=true" width="250" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vito-L/github-contributor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vito-L&repo=github-contributor&theme=github_dark&hide_border=true" width="250" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
