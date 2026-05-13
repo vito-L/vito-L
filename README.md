@@ -62,7 +62,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](github-contribution-grid-snake-green.svg)
+![Snake animation](https://raw.githubusercontent.com/vito-L/vito-L/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
