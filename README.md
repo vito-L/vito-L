@@ -11,8 +11,8 @@
 
 ## About Me
 
-🔭 Working on open source projects
-🌱 Learning Go, Python, TypeScript
+🔭 Working on open source projects     
+🌱 Learning Go, Python, TypeScript     
 💬 Ask me about anything
 
 ---
