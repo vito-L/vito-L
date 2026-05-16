@@ -12,7 +12,7 @@
 ## About Me
 
 🔭 Working on open source projects     
-🌱 Learning Go, Python, TypeScript     
+🌱 Building things that interest me     
 💬 Ask me about anything
 
 ---
